@@ -1,6 +1,6 @@
 # This is a test task for a Paydoo front-end vacancy.
 
-# Currency Conversaion Tool
+## Currency Conversaion Tool
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
 
