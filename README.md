@@ -1,6 +1,18 @@
-# MyApp
+# This is a test task for a Paydoo front-end vacancy.
+
+# Currency Conversaion Tool
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
+
+Develop a currency conversion app to convert values from a provided currency to USD and from USD to a provided currency. 
+Use public API to get exchange rates: 
+● https://docs.openexchangerates.org/ 
+● API key/App ID: 0e99a90e26224cc285f0d8f8cc7cadf2 
+● this is a free plan, only /latest-json can be used
+
+As requested in task - you can easily convert USD to provided currencies by API. But to convert those currencies to USD need a different plan, or there is a issue with app ID here is a error
+
+{ "error": true, "status": 403, "message": "not_allowed", "description": "Changing the API base currency is available for Developer, Enterprise and Unlimited plan clients. Please upgrade, or contact support@openexchangerates.org with any questions." }
 
 ## Development server
 
